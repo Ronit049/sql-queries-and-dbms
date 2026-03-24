@@ -151,4 +151,4 @@ Just tell me 👍
 └── notes/
 └── dbms_theory.md
 ```
-Thank you🙌
+Thank you🙌........
