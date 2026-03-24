@@ -16,25 +16,24 @@ This repository is designed to help students, developers, and interview aspirant
 ---
 
 ## 📂 Repository Structure
-sql-queries-and-dbms/
-│
-├── basics/
-│ ├── create_database.sql
-│ ├── create_table.sql
-│ └── insert_data.sql
-│
-├── queries/
-│ ├── select_queries.sql
-│ ├── where_clause.sql
-│ ├── joins.sql
-│ ├── group_by.sql
-│ └── subqueries.sql
-│
-├── advanced/
-│ ├── views.sql
-│ ├── indexes.sql
-│ ├── triggers.sql
-│ └── stored_procedures.sql
+
+---
+
+## 📌 Folder Explanation
+
+- **basics/** → Beginner-level SQL (start here if new)
+- **queries/** → Most important queries for practice & interviews
+- **advanced/** → Real-world DBMS features
+- **notes/** → Theory for exams & interviews
+
+---
+
+## 🚀 Learning Path
+
+1. Start with `basics/`
+2. Move to `queries/`
+3. Practice `advanced/`
+4. Revise using `notes/dbms_theory.md`
 
 
 ---
